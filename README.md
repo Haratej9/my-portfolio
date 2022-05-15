@@ -438,8 +438,8 @@ In free times I used to play cricket, kabaddi because it keeps me to feel free f
         <section id="contact">
             <center><h1 class="heading">CONTACT</h1></center>
             
-                <input type="text" name="name" class="input" placeholder="9347870667">
-                <input type="email" name="email" class="input" placeholder="haratej2402@gmail.com">
+                <input type="text" name="name" class="input" placeholder=" 9347870667 ">
+                <input type="email" name="email" class="input" placeholder=" haratej2402@gmail.com ">
 
             
                 </section>
