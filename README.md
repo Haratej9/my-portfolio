@@ -476,6 +476,3 @@ In free times I used to play cricket, kabaddi because it keeps me to feel free f
   </section>
   <!-- End Footer -->
   <script src="./app.js"></script>
-</body>
-
-</html>
