@@ -433,16 +433,16 @@ In free times I used to play cricket, kabaddi because it keeps me to feel free f
                     <h1 class="headings">MY SKILLS</h1>
                     <p>My skills are the back bone for me. I am quiet decent in communication skills.. I have some basic stuff regarding Autocad, Java, Python, Html and Css....!!</p>
                     </div>
-        </section></center>
+     
 
         <section id="contact">
             <center><h1 class="heading">CONTACT</h1></center>
-            <form action=""class="form">
+            
                 <input type="text" name="name" class="input" placeholder="9347870667">
                 <input type="email" name="email" class="input" placeholder="haratej2402@gmail.com">
 
-            </form>
-        </section>
+            
+                </section>
 
         <footer>
             <!-- Add icon library -->
