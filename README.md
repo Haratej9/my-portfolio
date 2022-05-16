@@ -1,5 +1,3 @@
-# my-portfolio
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -214,11 +212,11 @@
     footer p {
         text-align: center;
     }
-
+    
     .experience-area h1 {
         padding: 5%;
     }
-
+    
     .site-footer
     {
         background-color:black;
@@ -393,12 +391,12 @@
             <li><a href="#contact">Contact Me</a></li>
         </ul>
     </nav>
-
+        
     <section id="home">
             <div class="Main">
-                 <h1 class="Headings">I AM <br>hara tej </h1>
+                 <h1 class="Headings">I AM <br>Haratej</h1>
                  <button class="btn">
-                    LEARNER
+                    student
               </button>
              </div>
          </section> 
@@ -410,7 +408,7 @@
                 <div id="intro">
                     <h2>HARATEJ DIVI</h2>
                     <P>My name is Hara Tej...... I am from vijayawada which is in Krishna district. Recently I got a seat in VIT-AP university through EAPCET. I am representing the Mechanical department. Recently I have joined SAE club and SPM club. Both clubs are playing a crucial role for me to built a good career.  I am very interested in coding so that SPM club is playing a major role to built my confidence. 
-In free times I used to play cricket, kabaddi because it keeps me to feel free from any situation and it helps me to handle that situation in a quiet manner..............!                  
+In free times I used to play cricket, kabaddi because it keeps me to feel free from any situation and it helps me to handle that situation in a quiet manner..............!                   
 
                     </P>
                 </div>
@@ -421,8 +419,8 @@ In free times I used to play cricket, kabaddi because it keeps me to feel free f
             <h1 class="headings">PICTURES</h1>
             <div class="gallery">
                 <img src="https://res.cloudinary.com/du3iufefj/image/upload/v1652610103/my%20library/download_py0wnf.jpg" alt="">
-                <img src="https://res.cloudinary.com/du3iufefj/image/upload/v1652610151/my%20library/download_tpuwwc.jpg" alt="">
-
+                <img src="https://res.cloudinary.com/du3iufefj/image/upload/v1652610083/my%20library/download_lvmuwu.jpg" alt="">
+                
             </div>
         </section>
 
@@ -433,16 +431,16 @@ In free times I used to play cricket, kabaddi because it keeps me to feel free f
                     <h1 class="headings">MY SKILLS</h1>
                     <p>My skills are the back bone for me. I am quiet decent in communication skills.. I have some basic stuff regarding Autocad, Java, Python, Html and Css....!!</p>
                     </div>
-     
+        </section></center>
 
         <section id="contact">
             <center><h1 class="heading">CONTACT</h1></center>
-            
-                <input type="text" name="name" class="input" placeholder=" 9347870667 ">
-                <input type="email" name="email" class="input" placeholder=" haratej2402@gmail.com ">
+            <form action=""class="form">
+                <input type="text" name="name" class="input" placeholder="9347870667">
+                <input type="email" name="email" class="input" placeholder="haratej2402@gmail.com">
 
-            
-                </section>
+            </form>
+        </section>
 
         <footer>
             <!-- Add icon library -->
@@ -452,26 +450,28 @@ In free times I used to play cricket, kabaddi because it keeps me to feel free f
 
 
             <p>HARA TEJ DIVI</p>
-
-
-        <!-- Footer -->
+         <!-- Footer -->
   <section id="footer">
     <div class="footer container">
       <div class="brand">
-
+        <h1><span>H</span>ara <span>T</span>ej</h1>
       </div>
-
+      <h2>Your Complete Web Solution</h2>
       <div class="social-icon">
         <div class="social-item">
-          <a href="https://www.facebook.com/profile.php?id=100081020930976" target="_blank"><img src="https://res.cloudinary.com/du3iufefj/image/upload/v1652683583/my%20library/download_1_vaq6cu.png" /></a>
-
+           <a href="https://www.facebook.com/profile.php?id=100081020930976/"
+           target="_blank"><img src="https://res.cloudinary.com/du3iufefj/image/upload/v1652683583/my%20library/download_1_vaq6cu.png" /></a>
+        </div>
+        <div class="social-item">
           <a href="https://www.instagram.com/haratej_sgk/" target="_blank"><img src="https://res.cloudinary.com/du3iufefj/image/upload/v1652683574/my%20library/download_vezfql.png" /></a>
-
+        </div>
+        <div class="social-item">
           <a href="https://twitter.com/Dhtej_7" target="_blank"><img src="https://res.cloudinary.com/du3iufefj/image/upload/v1652683583/my%20library/download_fmv2ys.jpg" /></a>
         </div>
       </div>
-      <p>Copyright © 2022 Hara Tej. All rights reserved</p>
+      <p>Copyright © 2020 Kishore. All rights reserved</p>
     </div>
   </section>
   <!-- End Footer -->
-  <script src="./app.js"></script>
+</body>
+</html>
